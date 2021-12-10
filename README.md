@@ -9,7 +9,7 @@ Data: 10/12/2021
 
 ## Plantejament
 
-En aquest treball comentaré dos casos d'hibridació relativament nous, que gràcies a aquesta mescla de mitjans obrin panorames molt interessant de present i futur. Ajuntant art, tecnologia i innovació.
+En aquest treball comentaré dos casos d'hibridació relativament nous, que gràcies a aquesta mescla de mitjans obrin panorames molt interessant de present i futur. Unint art, tecnologia i innovació.
 
 
 ## Espectacles amb drons
@@ -41,7 +41,7 @@ Els usos d'aquesta tecnologia són molt diversos com ara l'educació, la psicote
 
 La hibridació d'aquest mitjà és clara, combina perfectament el món del cinema, l’animació i els continguts interactius amb el món real, ja que la immersió pot arribar a ser quasi completa, fent així un nou mitja i una hibridació completa. En un principi pot parèixer que la immersió és només visual, però aquesta nova tècnica va molt més enllà i és que segons l'empresa que faci el producte, afegeix certs "complements" que arriben a la immersió completa; aquests "complements" són: cascs amb so envoltant 360°, guants per "tocar" aquesta nova realitat i modular-la a gust del participant, vestits especials que simulen pressió, etc. Amb tot això aquesta nova realitat pot arribar a ser igual de real que la realitat.
 
-![Boxa en realitat virtual!](https://images.pexels.com/photos/8097324/pexels-photo-8097324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 "Boxa en realitat virtual")
+![Medicina i realitat virtual!](https://images.pexels.com/photos/4384665/pexels-photo-4384665.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260 "Medicina i realitat virtual")
 
 La contrapartida de tot això, i que alguns usuaris experimenten, és que durant aquestes immersions poden ser nàusees, marejos, problemes en els sistemes vestibulars i els sistemes visuals. Sí que és cert que això depèn molt de l'usuari, ja que hi ha persones que al cap de pocs minuts poden començar a sentir els primers símptomes i hi han d'altres que poden estar gaudint durant hores i hores sense cap conseqüència. És per això que tant els creadors d'aquests nous mitjans, com les empreses que es dediquen al hardware i software de la realitat virtual han de tindre molt present a tots els usuaris per fer de l'experiència el més completa i enriquidora possible.
 
@@ -57,5 +57,5 @@ Imatges
 - Fauxels. 2019. *Gent tassa treballant assegut* [Imatge]. [Pexels](https://www.pexels.com). Disponible a: [https://www.pexels.com/ca-es/foto/gent-tassa-treballant-assegut-3183150/](https://www.pexels.com/ca-es/foto/gent-tassa-treballant-assegut-3183150/)
 - Intel Corporation. 2018. *XXIII Olympic Winter Games 2018* [Imatge]. [Intel Drone Shows](https://inteldronelightshows.com). Disponible a: [https://newsroom.intel.com/wp-content/uploads/sites/11/2018/02/Intel-Olympics-drone-show-1-2x1-690x345.jpg](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/02/Intel-Olympics-drone-show-1-2x1-690x345.jpg)
 - Intel Corporation. 2019. *Intel SBLIII Drones* [Imatge]. [Newsroom Intel](https://newsroom.intel.com). Disponible a: [https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2019/02/Intel-SBLIII-Drones-5.jpg](https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2019/02/Intel-SBLIII-Drones-5.jpg)
-- RODNAE Productions. 2021. *Dona tecnologia activitat boxa* [Imatge]. [Pexels](https://www.pexels.com). Disponible a: [https://www.pexels.com/ca-es/foto/dona-tecnologia-activitat-boxa-8097324/](https://www.pexels.com/ca-es/foto/dona-tecnologia-activitat-boxa-8097324/)
 - Tima Miroshnichenko. 2021. *Dona jugant jove dispositiu* [Imatge]. [Pexels](https://www.pexels.com). Disponible a: [https://www.pexels.com/ca-es/foto/dona-jugant-jove-dispositiu-6615084/](https://www.pexels.com/ca-es/foto/dona-jugant-jove-dispositiu-6615084/)
+- Darlene Alderson. 2020. *Home dona oficina jove* [Imatge]. [Pexels](https://www.pexels.com). Disponible a: [https://www.pexels.com/ca-es/foto/home-dona-oficina-jove-4384665/](https://www.pexels.com/ca-es/foto/home-dona-oficina-jove-4384665/)
