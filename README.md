@@ -4,7 +4,7 @@ REPTE-ACTIVITAT 3. Visionant el futur amb les ulleres de Manovich: redescobrint 
 Autor: Itzar Alejos Gonzàlez \
 Data: 10/12/2021
 
-![Mitja hibrid!](https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500 "Mitja hibrid")
+![Mitja híbrid!](https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500 "Mitja híbrid")
 
 
 ## Plantejament
