@@ -12,7 +12,7 @@ Data: 10/12/2021
 En aquest treball comentaré dos casos d'hibridació relativament nous, que gràcies a aquesta mescla de mitjans obrin panorames molt interessant de present i futur. Ajuntant art, tecnologia i innovació.
 
 
-## Espectacles amb drones
+## Espectacles amb drons
 
 En aquest primer cas d'hibridació volia presentar el que en angles es diu com "Drone light show". Consisteix a un espectacle de llums i so en el qual els protagonistes són els drons. El funcionament consta d'una sèrie de drons connectats entre ells que mitjançant software i hardware permeten fer figures en l'aire creant així il·lusions i moviments mai abans vists. En l'actualitat una de les empreses que porten aquests espectacles a un altre nivell és Intel, que ja des de fa uns anys realitza aquesta innovadora tècnica per a celebracions, esdeveniments esportius, festivals, etc.
 
