@@ -7,7 +7,7 @@ Data: 10/12/2021
 ![Mitja hibrid!](https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500 "Mitja hibrid")
 
 
-## Plantjetament
+## Plantejament
 
 En aquest treball comentaré dos casos d'hibridació relativament nous, que gràcies a aquesta mescla de mitjans obrin panorames molt interessant de present i futur. Ajuntant art, tecnologia i innovació.
 
